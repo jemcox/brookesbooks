@@ -12,8 +12,12 @@ The two giants of the Book Industry lie across the Atlantic from one another. Th
 
 ### Barnes & Noble
 
+![](../uploads/barnes-noble_-logo_553x260_v1.png)
+
 The American super-store encompasses the American look with the words 'Barnes' and 'Noble' bodly stamped out in *Bureau Grot Comp Medium* filling the eyes of the reader, claiming its space just as the company's buildings themselves impose upon their customers.
 
 The word 'Booksellers' takes up its place, within the logo, beneath the company name. It is set in a more traditional font called *Mrs Eaves Bold* which perhaps mimics the general fonts found in the text of most novels.
 
 ### Waterstones
+
+![](../uploads/waterstones_com_logo.png)
