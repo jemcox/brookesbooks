@@ -16,7 +16,7 @@ The two giants of the Book Industry lie across the Atlantic from one another. Th
 
 The American super-store encompasses the American look with the words 'Barnes' and 'Noble' bodly stamped out in *Bureau Grot Comp Medium* filling the eyes of the reader, claiming its space just as the company's buildings themselves impose upon their customers.
 
-The word 'Booksellers' takes up its place, within the logo, beneath the company name. It is set in a more traditional font called *Mrs Eaves Bold* which perhaps mimics the general fonts found in the text of most novels.
+Originally, the word 'Booksellers' took up its place, within the logo, beneath the company name. It was set in a more traditional font called *Mrs Eaves Bold* which perhaps mimicked the general fonts found in the text of most novels. However, within recent years the chain decided to drop it's slogan and simplify the logo to keep up with the times, adopting a more minimal look. 
 
 ### Waterstones
 
