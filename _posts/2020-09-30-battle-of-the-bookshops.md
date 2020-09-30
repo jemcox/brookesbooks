@@ -18,6 +18,10 @@ The American super-store encompasses the American look with the words 'Barnes' a
 
 Originally, the word 'Booksellers' took up its place, within the logo, beneath the company name. It was set in a more traditional font called *Mrs Eaves Bold* which perhaps mimicked the general fonts found in the text of most novels. However, within recent years the chain decided to drop it's slogan and simplify the logo to keep up with the times, adopting a more minimal look. 
 
-### Waterstones
+Now, what some might say is the only characterful piece in the brand's typography is the ampersand found between the two names.
+
+Waterstones
+
+Like Barnes & Noble, the Waterstones team have made very little changes when it comes to typography.
 
 ![](../uploads/waterstones_com_logo.png)
