@@ -26,4 +26,8 @@ Despite having launched well over 100 years ago, Barnes & Noble remains one of t
 
 ![](../uploads/waterstones_com_logo.png)
 
-Like Barnes & Noble, Waterstones is named after its founder Tim Waterstone however, unlike its US equivilant, it was only founded 38 years ago and is represented by far fewer stores.
+Like Barnes & Noble, Waterstones is named after its founder Tim Waterstone however, unlike its US equivilant, it was only founded 38 years ago and is represented by far fewer stores. Another difference that the two companies share is the contrast to one another in terms of typography.
+
+The word '**Waterstones**' stands alone, unobtrusive but still quietly present. The font the word is displayed in is one of the most recognisable fonts across the globe: **Baskerville**. Baskerville is a serif typeface that was designed in the 1750s by a Mr John Baskerville. It is elegant but remains easy to read. Unlike earlier serif fonts, there is a larger distinction between the strokes used. This makes it very popular in book design which is most likely the reason why Waterstones adopted it as their own.
+
+Despite the popularity of the typeface, the Waterstones logo is instantly identifiable. The association with the written word allows what could be a rather dull font to easily be a characterful, strong logo for the brand.
