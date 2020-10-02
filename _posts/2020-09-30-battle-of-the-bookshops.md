@@ -26,4 +26,4 @@ Despite having launched well over 100 years ago, Barnes & Noble remains one of t
 
 ![](../uploads/waterstones_com_logo.png)
 
-Like Barnes & Noble, Waterstones is named after its founder Time Waterstone but unlike its US equivilant it was only founded 38 years ago.
+Like Barnes & Noble, Waterstones is named after its founder Time Waterstone but unlike its US equivilant it was only founded 38 years ago and is represented by far fewer stores.
