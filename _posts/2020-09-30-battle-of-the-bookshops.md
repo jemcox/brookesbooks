@@ -6,7 +6,7 @@ comments: true
 ---
 Within the world of the book lover, perhaps the most comforting and reassuring place to be is in the bookshop. Whether you are settling down to do some work at the coffee shop within, or simply browsing the shelves to wait out a rainstorm, there's nothing quite like being surrounded by books.
 
-But what is it that makes a bookshop seem like *the* place to be? Contrary to what our hearts like to believe, this haven to the bookish soul is a business and the centre of the brand is displayed to the public via aesthetics and aesthetics alone.
+But what is it that makes a bookshop seem like *the* *place* to be? Contrary to what our hearts like to believe, this haven to the bookish soul is a business and the centre of the brand is displayed to the public via aesthetics and aesthetics alone.
 
 The two giants of the Book Industry bookshop-wise lie across the Atlantic from one another. These are of course; **Barnes & Noble** and **Waterstones**. While both hold their own in their own right, they approach very different marketing strategies. The most obvious element of their branding would of course be the typography they choose to use.
 
