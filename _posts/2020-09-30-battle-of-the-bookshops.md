@@ -2,6 +2,7 @@
 layout: post
 title: Battle of the Bookshops
 date: 2020-09-30T15:22:41.531Z
+header_feature_image: ../uploads/simple-technology-blog-banner.png
 comments: true
 ---
 Within the world of the book lover, perhaps the most comforting and reassuring place to be is in the bookshop. Whether you are settling down to do some work at the coffee shop within, or simply browsing the shelves to wait out a rainstorm, there's nothing quite like being surrounded by books.
