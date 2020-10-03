@@ -9,7 +9,7 @@ Within the world of the book lover, perhaps the most comforting and reassuring p
 
 But what is it that makes a bookshop seem like *the* *place* to be? Contrary to what our hearts like to believe, this haven to the bookish soul is a business and the centre of the brand is displayed to the public via aesthetics and aesthetics alone.
 
-The two giants of the Book Industry bookshop-wise lie across the Atlantic from one another. These are of course; **Barnes & Noble** and **Waterstones**. Interestingly in 2019 the CEO of **Waterstones** James Daunt bought **Barnes & Noble**. Despite belong to the same parent company Elliott Management Corporation, the two brands approach very different marketing strategies. The most obvious element of their branding would of course be the typography they choose to use.
+The two giants of the Book Industry bookshop-wise lie across the Atlantic from one another. These are of course; **Barnes & Noble** and **Waterstones**. Interestingly in 2019 the CEO of **Waterstones** James Daunt bought **Barnes & Noble**. Despite belonging to the same parent company (Elliott Management Corporation), the two brands approach a very different look aesthetics-wise. The most obvious element of their branding would of course be the typography they choose to use.
 
 ### Barnes & Noble
 
