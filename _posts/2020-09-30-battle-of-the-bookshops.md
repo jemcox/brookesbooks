@@ -19,7 +19,7 @@ The American super-store encompasses the American look with the words '**Barnes*
 
 Originally, the word '**Booksellers**' took up its place, within the logo, beneath the company name. It was set in a more traditional serif font called *Mrs Eaves Bold* which perhaps mimicked fonts commonly found in the text of most novels. However, within recent years the chain decided to drop the additional text and simplify the logo to keep up with the times, adopting a more minimal look. Many stores are yet to update their signs.
 
-Now, what some might say is the only characterful piece in the brand's typography is the ampersand found between the two company names. The uniform, blocks of green are broken up by a golden, sometimes orange, symbol simultaneously destroying the harmony *and* joining the **Barnes** brothers with their co-founder G. Clifford **Noble**.
+What some might say is the only characterful piece in the brand's typography now is the ampersand found between the two company names. The uniform, blocks of green are broken up by a golden, sometimes orange, symbol simultaneously destroying the harmony *and* joining the **Barnes** brothers with their co-founder G. Clifford **Noble**.
 
 Despite having launched well over 100 years ago, Barnes & Noble remains one of the giants in the book industry with over 600 retails stores and near-worldwide recognition.
 
