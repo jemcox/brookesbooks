@@ -15,7 +15,7 @@ The two giants of the Book Industry bookshop-wise lie across the Atlantic from o
 
 ![](../uploads/barnes-noble_-logo_553x260_v1.png)
 
-The American super-store encompasses the American look with the words '**Barnes**' and '**Noble**' bodly stamped out in *Bureau Grot Comp Medium* filling the eyes of the reader, claiming its space just as the company's buildings themselves impose upon their customers. This is a standard looking font similar to other popular ones like Bebas Neue and Oswald. With minimal tracking between characters and completely capitalised letters, Bureau Grot Comp Medium is easy to read and impossible to miss.
+The American super-store encompasses the American look with the words '**Barnes**' and '**Noble**' bodly stamped out in *Bureau Grot Comp Medium* filling the eyes of the reader, claiming its space just as the company's buildings themselves impose upon their customers. This is a standard looking font similar to other popular ones like *Bebas Neue* and *Oswald*. With minimal tracking between characters and completely capitalised letters, *Bureau Grot Comp Medium* is easy to read and impossible to miss.
 
 Originally, the word '**Booksellers**' took up its place, within the logo, beneath the company name. It was set in a more traditional serif font called *Mrs Eaves Bold* which perhaps mimicked fonts commonly found in the text of most novels. However, within recent years the chain decided to drop the additional text and simplify the logo to keep up with the times, adopting a more minimal look. Many stores are yet to update their signs.
 
