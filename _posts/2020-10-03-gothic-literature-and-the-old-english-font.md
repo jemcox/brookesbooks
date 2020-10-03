@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gothic Literature and the Old English Font
+title: Gothic Literature and the 'Old English' Typeface
 date: 2020-10-03T16:38:55.395Z
 header_feature_image: ../uploads/screenshot-2020-10-03-at-18.11.05.png
 comments: true
