@@ -5,13 +5,13 @@ date: 2020-10-03T16:38:55.395Z
 header_feature_image: ""
 comments: true
 ---
-Out of all of the elements of the term *gothic* - think haunted houses, candlelight and howling winds - great works of literature come to mind. Perhaps the most infamous examples of these is the literary masterpiece that is Dracula by Bram Stoker. There have been many different editions of Dracula since its release in 1897 but when it comes to the cover-designer's font choice one style reigns triumphant. This iconic and most widely seen being any variation of **Old English** examples of which include:
+Out of all of the elements of the term *gothic* - think haunted mansions, candlelight and howling winds - great works of literature come to mind. Perhaps the most infamous examples of these is the literary masterpiece that is Dracula by Bram Stoker. There have been many different editions of Dracula since its publication date in 1897 but when it comes to the cover-designer's choice of typography one style reigns triumphant. The iconic and most widely seen of all being any variation of **Old English**.
 
-![](../uploads/screenshot-2020-10-04-at-13.21.25.png)
+![](../uploads/screenshot-2020-10-04-at-13.21.25.png "Popular Old English Typefaces")
 
-Old English was commonly used throughout England, France, Germany, Italy and the Netherlands between the 12th and 17th centuries. The typeface is characterised by the use of heavy and dramatic strokes with a particular flourish on capital letters. 
+**Old English** was commonly used throughout England, France, Germany, Italy and the Netherlands between the 12th and 17th centuries. With a medieval influence, the typeface is characterised by its use of heavy and dramatic strokes with a particular flourish on capital letters. 
 
-Interestingly, though Dracula wasn't published until the 19th century however Bram does describe the Transylvanian landscape in dramatic settings with the ancient and monstrous character of Dracula having existed in the gloom invoking a forgotten, past time.
+Interestingly, Dracula wasn't published until the 19th century however Bram does describe the Transylvanian landscape in dramatic settings with the ancient and monstrous character of Dracula having existed in the gloom invoking a forgotten, past time. Dracula is thought to be inspired by the 15th century Wallachian Prince Vlad the Impaler putting the character right in the middle of the typeface's popularity point.
 
 A genre that was particularly popular during the Victorian era was Gothic literature. It allowed authors to step back in time and create something that was truly atmospheric and captured a different time and place. The caligraphy-like element to Old English fonts allows for 
 
