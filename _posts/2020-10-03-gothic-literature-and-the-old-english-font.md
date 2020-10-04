@@ -11,7 +11,7 @@ Out of all of the elements of the term *gothic* - think haunted mansions, candle
 
 **Old English** was commonly used throughout England, France, Germany, Italy and the Netherlands between the 12th and 17th centuries. With a medieval influence, the typeface is characterised by its use of heavy and dramatic strokes with a particular flourish on capital letters. 
 
-Interestingly, Dracula wasn't published until the 19th century however Bram does describe the Transylvanian landscape in dramatic settings with the ancient and monstrous character of Dracula having existed in the gloom invoking a forgotten, past time. Dracula is thought to be inspired by the 15th century Wallachian Prince Vlad the Impaler putting the character right in the middle of the typeface's popularity point.
+Interestingly, Dracula wasn't published until the 19th century however Bram does describe the Transylvanian landscape in dramatic settings with the ancient and monstrous character of Dracula having existed in the gloom invoking a past, forgotten time. Dracula is thought to be inspired by the 15th century Wallachian Prince Vlad the Impaler putting the character right in the middle of the typeface's popularity point.
 
 A genre that was particularly popular during the Victorian era was Gothic literature. It allowed authors to step back in time and create something that was truly atmospheric and captured a different time and place. The caligraphy-like element to Old English fonts allows for 
 
