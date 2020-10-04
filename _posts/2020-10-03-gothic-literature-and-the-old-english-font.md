@@ -15,4 +15,6 @@ Interestingly, though Dracula wasn't published until the 19th century however Br
 
 A genre that was particularly popular during the Victorian era was Gothic literature. It allowed authors to step back in time and create something that was truly atmospheric and captured a different time and place. The caligraphy-like element to Old English fonts allows for 
 
+![](../uploads/screenshot-2020-10-04-at-14.09.04.png)
+
 Along with the typeface the use of red represents the vampiric main character and his taste for blood and the black that it is paired with lends to the gothic element and hints at sinister things to come.
