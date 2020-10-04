@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gothic Literature and the 'Old English' Typeface
+title: Dracula's a sucker for the 'Old English' Typeface
 date: 2020-10-03T16:38:55.395Z
 header_feature_image: ""
 comments: true
@@ -13,4 +13,6 @@ Old English was commonly used throughout England, France, Germany, Italy and the
 
 Interestingly, though Dracula wasn't published until the 19th century however Bram does describe the Transylvanian landscape in dramatic settings with the ancient and monstrous character of Dracula having existed in the gloom invoking a forgotten, past time.
 
-A genre that was particularly popular during the Victorian era was Gothic literature. It allowed authors to step back in time and create something that was truly atmospheric and captured a different time and place. The caligraphy-like element to Old English fonts allows for
+A genre that was particularly popular during the Victorian era was Gothic literature. It allowed authors to step back in time and create something that was truly atmospheric and captured a different time and place. The caligraphy-like element to Old English fonts allows for 
+
+Along with the typeface the use of red represents the vampiric main character and his taste for blood and the black that it is paired with lends to the gothic element and hints at sinister things to come.
