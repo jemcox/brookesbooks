@@ -4,6 +4,11 @@ title: Dracula's a sucker for the 'Old English' Typeface
 date: 2020-10-03T16:38:55.395Z
 header_feature_image: ""
 comments: true
+tags:
+  - Books
+  - Publishing
+  - Art
+  - Design
 ---
 Out of all of the elements of the term *gothic* - think haunted mansions, candlelight and howling winds - great works of literature come to mind. Perhaps the most infamous examples of these is the literary masterpiece that is Dracula by Bram Stoker. There have been many different editions of Dracula since its publication date in 1897 but when it comes to the cover-designer's choice of typography one style reigns triumphant. The iconic and most widely seen of all being any variation of **Old English**.
 
@@ -15,6 +20,6 @@ Interestingly, Dracula wasn't published until the 19th century however Bram does
 
 A genre that was particularly popular during the Victorian era was Gothic literature. It allowed authors to step back in time and create something that was truly atmospheric and captured a different time and place. The caligraphy-like element to Old English typeface allows for 
 
-![](../uploads/screenshot-2020-10-04-at-14.09.04.png)
+![](../uploads/screenshot-2020-10-04-at-14.09.04.png "Some Different Editions of Dracula by Bram Stoker")
 
-Along with the typeface red is used to represent the vampiric main character and his taste for blood, and the black that it is paired with lends to the gothic element and hints at sinister things to come.
+Along with the typeface bright red is used to represent the vampiric main character and his taste for blood, and the black that it is paired with lends to the gothic element and hints at sinister things to come.
