@@ -17,4 +17,4 @@ A genre that was particularly popular during the Victorian era was Gothic litera
 
 ![](../uploads/screenshot-2020-10-04-at-14.09.04.png)
 
-Along with the typeface the red is used to represent the vampiric main character, and his taste for blood, and the black that it is paired with lends to the gothic element and hints at sinister things to come.
+Along with the typeface red is used to represent the vampiric main character and his taste for blood, and the black that it is paired with lends to the gothic element and hints at sinister things to come.
