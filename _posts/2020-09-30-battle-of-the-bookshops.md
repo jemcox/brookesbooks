@@ -7,9 +7,9 @@ comments: true
 ---
 Within the world of the book lover, perhaps the most comforting and reassuring place to be is in the bookshop. Whether you are settling down to do some work at the coffee shop within, or simply browsing the shelves to wait out a rainstorm, there's nothing quite like being surrounded by books.
 
-But what is it that makes a bookshop seem like *the* *place* to be? Contrary to what our hearts like to believe, this haven to the bookish soul is a business and the centre of the brand is displayed to the public via aesthetics and aesthetics alone.
+But what is it that makes a bookshop seem like *the* *place to be*? Contrary to what our hearts like to believe, this haven to the bookish soul is a business and the centre of the brand is displayed to the public via aesthetics and aesthetics alone.
 
-The two giants of the Book Industry bookshop-wise lie across the Atlantic from one another. These are of course; **Barnes & Noble** and **Waterstones**. Interestingly in 2019 the CEO of **Waterstones** James Daunt bought **Barnes & Noble**. Despite belonging to the same parent company (Elliott Management Corporation), the two brands approach a very different look aesthetics-wise. The most obvious element of their branding would of course be the typography they choose to use.
+The two giants of the western Book Industry bookshop-wise lie across the Atlantic from one another. These are of course **Barnes & Noble** and **Waterstones**. Interestingly, in 2019 the CEO of **Waterstones** James Daunt bought **Barnes & Noble**. Despite belonging to the same parent company (Elliott Management Corporation), the two brands approach a very different look aesthetics-wise. The more obvious element of their branding most would say is the typography they choose to use.
 
 ### Barnes & Noble
 
@@ -17,7 +17,7 @@ The two giants of the Book Industry bookshop-wise lie across the Atlantic from o
 
 The American super-store encompasses the American look with the words '**Barnes**' and '**Noble**' bodly stamped out in *Bureau Grot Comp Medium* filling the eyes of the reader, claiming its space just as the company's buildings themselves impose upon their customers. This is a standard looking font similar to other popular ones like *Bebas Neue* and *Oswald*. With minimal tracking between characters and completely capitalised letters, *Bureau Grot Comp Medium* is easy to read and impossible to miss.
 
-Originally, the word '**Booksellers**' took up its place, within the logo, beneath the company name. It was set in a more traditional serif font called *Mrs Eaves Bold* which perhaps mimicked fonts commonly found in the text of most novels. However, within recent years the chain decided to drop the additional text and simplify the logo to keep up with the times, adopting a more minimal look. Many stores are yet to update their signs.
+Originally, the word '**Booksellers**' took up its place, within the logo, beneath the company name. It was set in a more traditional serif font called *Mrs Eaves OT Bold* which perhaps mimicked fonts commonly found in the text of most novels. However, within recent years the chain decided to drop the additional text and simplify the logo to keep up with the times, adopting a more minimal look. Many stores are yet to update their signs.
 
 What some might say is the only characterful piece in the brand's typography now is the ampersand found between the two company names. The uniform, blocks of green are broken up by a golden, sometimes orange, symbol simultaneously destroying the harmony *and* joining the **Barnes** brothers with their co-founder G. Clifford **Noble**.
 
