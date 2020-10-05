@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Jemima Cox
 header_feature_image: ../uploads/open-book.jpg
 bannerheight: 20vmax
 logo: ../uploads/type-or-typo-logo-2.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/type-or-typo-logo-2.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
