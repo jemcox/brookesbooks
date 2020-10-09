@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dracula's a sucker for the 'Old English' Typeface
+title: Dracula & the 'Old English' Typeface
 date: 2020-10-03T16:38:55.395Z
 header_feature_image: ""
 comments: true
