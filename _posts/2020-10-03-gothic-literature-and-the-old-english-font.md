@@ -10,7 +10,7 @@ tags:
   - Art
   - Design
 ---
-Out of all of the elements of the term *gothic* - think haunted mansions, candlelight and howling winds - great works of literature come to mind. Perhaps the most infamous examples of these is the literary masterpiece that is Dracula by Bram Stoker. There have been many different editions of Dracula since its publication date in 1897 but when it comes to the cover-designer's choice of typography one style reigns triumphant. The iconic and most widely seen of all being any variation of **Old English**.
+Out of all of the elements of the term *gothic* - think haunted mansions, candlelight and howling winds - great works of literature come to mind. Perhaps the most infamous examples of these is the literary masterpiece that is Dracula by Bram Stoker. There have been many different editions of Dracula since its publication date in 1897 but when it comes to the cover-designer's choice of typography one style reigns triumphant. The iconic and widely seen **Old English**.
 
 ![](../uploads/screenshot-2020-10-04-at-13.21.25.png "Popular Old English Fonts")
 
@@ -22,4 +22,4 @@ A genre that was particularly popular during the Victorian era was Gothic litera
 
 ![](../uploads/screenshot-2020-10-04-at-14.09.04.png "Some Different Editions of Dracula by Bram Stoker")
 
-Along with the typeface bright red is used to represent the vampiric main character and his taste for blood, and the black that it is paired with lends to the gothic element and hints at sinister things to come.
+The typeface is most commonly seen in black, red or white when associated with Dracula. Bright red is used to represent the vampiric main character and his taste for blood, and the black that it is often paired with lends to the gothic element and hints at sinister things to come.
