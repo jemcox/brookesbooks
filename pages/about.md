@@ -20,4 +20,4 @@ I hope to radiate my love for books across my site in order that I might attract
 
 ![](../uploads/type-or-typo-logo-2.png)
 
-Because this blog is centred around typography within books (and just because I love books!) I chose to chose display my headings in Libre Baskerville as it is the most popular font that is used for the text inside fiction books.
+Because this blog is centred around typography within books (and just because I love books!) I chose to chose display my headings in Libre Baskerville as it is the most popular font that is used for the text within fiction books.
