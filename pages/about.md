@@ -1,20 +1,23 @@
 ---
 layout: page
-title: About
-subtitle: All about me and my life
+title: About this Blog
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ""
 published: true
 tags: null
 description: null
 show: true
 ---
+Hello! My name is Jemima and welcome ***Type or Typo?***
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+I am a second-year Media, Journalism and Publishing student at Oxford Brookes University. This blog site is the main project for my module on Typographic Design for Page and Screen. It has allowed me to unite my appreciation for visual creation with my passion for writing. I am also a self-confessed Bibliophile and therefore adore any and all things book related! In this blog, I am able to combine all these things to create an internet space where I discuss, compare, and contrast typography within the book industry. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+A typical blog post will see me discussing some iconic typography being used on a book cover, an advertisement or even a storefront and letting you know whether is really is type or a typo! 
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+I hope to radiate my love for books across my site in order that I might attract another fellow book lover or, even better still, maybe help convince a browser on here to discover their own love for books. In order to do this, I have created a logo that displays the comparative attitude that I hope to convey on this blog by reflecting that within my logo with the use of a more traditional serif font commonly seen in novels (Baskerville) with a typewriter-like font know as Old Typewriter. Combined with this the 't' for 'Typo' or slightly off centre to convey the idea that it is a typo. The neutral tones displayed behind these letterforms are again reminiscent of the colour of book pages and what I hope is the honesty I hope to display on this blog.
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Because this blog is centred around typography within books (and just because I love books!) I decided to 
+
+Similarly, I have chosen the font
