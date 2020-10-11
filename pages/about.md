@@ -20,6 +20,6 @@ I hope to radiate my love for books across my site in order that I might attract
 
 ![](../uploads/type-or-typo-logo-2.png)
 
-Because this blog is centred around typography within books (and just because I love books!) I chose to display my headings in Libre Baskerville as it is the most popular font that is used for the text within books.
+Because this blog is centred around typography within books (and just because I love books!) I chose to display my headings in Libre Baskerville as it is the most popular font that is used for the text within books. Similarly, I have chosen to use Alegreya for the body text for the same reason and additionally because they are both fonts that are easy to read.
 
 I hope that my traditional but fun design choices within my blog reflect the book industry that is now many years old but evolving constantly with the changing times. Thank you for joining me here and taking the time to read my words now and to come!
