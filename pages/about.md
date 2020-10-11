@@ -18,6 +18,6 @@ A typical blog post will see me discussing some iconic typography being used on 
 
 I hope to radiate my love for books across my site in order that I might attract another fellow book lover or, even better still, maybe help convince a browser on here to discover their own love for books. In order to do this, I have created a logo that displays the comparative attitude that I hope to convey on this blog by reflecting that within my logo with the use of a more traditional serif font commonly seen in novels (Baskerville) with a typewriter-like font know as Old Typewriter. Combined with this the 't' for 'Typo' or slightly off centre to convey the idea that it is a typo. The neutral tones displayed behind these letterforms are again reminiscent of the colour of book pages and what I hope is the honesty I hope to display on this blog.
 
-Because this blog is centred around typography within books (and just because I love books!) I decided to 
+![](../uploads/type-or-typo-logo-2.png)
 
-Similarly, I have chosen the font
+Because this blog is centred around typography within books (and just because I love books!) I chose to chose display my headings in Libre Baskerville as it is the most popular font that is used for the text inside fiction books.
