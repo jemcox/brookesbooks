@@ -24,4 +24,4 @@ Because this blog is centred around typography within books (and just because I 
 
 ![](../uploads/screenshot-2020-10-11-at-15.39.14.png "Libre Baskerville and Alegreya family [1001 fonts]")
 
-I hope that my traditional but fun design choices within my blog reflect the book industry that although many years old is evolving constantly with the changing times. Thank you for joining me here and taking the time to read my words both now and to come!
+I hope that my traditional but fun design choices within my blog reflect the book industry that although many years old is evolving constantly with the changing times. Thank you for joining me here and taking the time to read my words now and in future posts!
