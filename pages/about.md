@@ -1,6 +1,6 @@
 ---
 layout: page
-title: " Welcome!"
+title: About
 subtitle: Welcome!
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
