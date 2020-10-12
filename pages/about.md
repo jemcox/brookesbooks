@@ -18,7 +18,7 @@ A typical blog post will see me discussing some iconic typography used on a book
 
 I hope to radiate my love for books across my site in order that I might attract another fellow book lover or, even better still, help convince someone reading this blog to discover their own love for books. In order to do this, I have created a logo that displays the diversity of the content I hope to display on this blog. I have attempted to reflect that, within my logo, with the use of a more traditional serif font commonly seen in novels (Baskerville) next to a typewriter-like font (Old Typewriter). Combined with this, the 't' for '**Typo**' is slightly off-axis to mimic the idea that it is really a typo. The neutral tones displayed behind these letterforms are reminiscent of the colour of book pages and, what I wish to be, the honesty I hope to exhibit in my blog posts. Again, the typo aspect is emphasised here as the blob-like shapes are imperfect and unique from one another. 
 
-![](../uploads/type-or-typo-logo-2.png)
+![Site logo created on Adobe Illustrator](../uploads/type-or-typo-logo-2.png "Site logo created on Adobe Illustrator")
 
 Because this blog is centred around typography within books (and just because I love books!) I chose to display my headings in Libre Baskerville as it is the most popular font used for the text within books. Similarly, I have chosen to use Alegreya for the body text for the same reason and also because they are both fonts that are easy to read for anyone who might view my posts.
 
