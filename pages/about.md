@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Welcome!
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ../uploads/alice-in-wonderland-book-page-3-old-design-shop.jpg
