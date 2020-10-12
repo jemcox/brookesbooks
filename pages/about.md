@@ -10,7 +10,7 @@ tags: null
 description: null
 show: true
 ---
-Hello! My name is Jemima and welcome ***Type or Typo?***
+Hello! My name is Jemima and welcome to ***Type or Typo?***
 
 I am a second-year Media, Journalism and Publishing student at Oxford Brookes University. This blog site is the main project for my module on Typographic Design for Page and Screen. It has allowed me to unite my appreciation for visual creation with my passion for writing. I am also a self-confessed Bibliophile and therefore adore anything and everything book related! In this blog, I am able to combine all these things to create an internet space where I discuss, compare, and contrast typography within the book industry. 
 
