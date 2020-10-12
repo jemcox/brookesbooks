@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " "
+title: "Gothic in Font "
 date: 2020-10-03T16:38:55.395Z
 header_feature_image: ../uploads/screenshot-2020-10-12-at-15.07.08.png
 comments: true
