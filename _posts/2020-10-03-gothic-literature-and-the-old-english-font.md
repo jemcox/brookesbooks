@@ -20,6 +20,6 @@ Interestingly, Dracula wasn't published until the 19th century however Stoker do
 
 A genre that was particularly popular during the Victorian era was Gothic literature. It allowed authors to step back in time and create something that was truly atmospheric and captured a different time and place. The style of the **Old English** typeface invokes the idea that the title was written in a fountain pen or at least with a quill pen and inkpot. This old fashioned style suits the age of the book and the branding of the book as a classic which is important to emphasise in bookselling.
 
-![](../uploads/screenshot-2020-10-04-at-14.09.04.png "Some different editions of Dracula by Bram Stoker")
+![Some different editions of Dracula by Bram Stoker](../uploads/screenshot-2020-10-04-at-14.09.04.png "Some different editions of Dracula by Bram Stoker")
 
 The typeface is most commonly seen in black, red or white when associated with Dracula. Bright red is used to represent the vampiric main character and his taste for blood, and the black that it is often paired with lends to the gothic element and hints at sinister things to come.
