@@ -14,7 +14,7 @@ Hello! My name is Jemima and welcome ***Type or Typo?***
 
 I am a second-year Media, Journalism and Publishing student at Oxford Brookes University. This blog site is the main project for my module on Typographic Design for Page and Screen. It has allowed me to unite my appreciation for visual creation with my passion for writing. I am also a self-confessed Bibliophile and therefore adore any and all things book related! In this blog, I am able to combine all these things to create an internet space where I discuss, compare, and contrast typography within the book industry. 
 
-A typical blog post will see me discussing some iconic typography used on a book cover, publishing advertisement or even a bookstore font and letting you know whether it really is type or a typo! 
+A typical blog post will see me discussing some iconic typography used on a book cover, publishing advertisement or even a bookstore front and letting you know whether it really is type or a typo! 
 
 I hope to radiate my love for books across my site in order that I might attract another fellow book lover or, even better still, help convince someone reading this blog to discover their own love for books. In order to do this, I have created a logo that displays the comparative attitude that I hope to convey on this blog. I have attempted to reflect that, within my logo, with the use of a more traditional serif font commonly seen in novels (Baskerville) next to a typewriter-like font (Old Typewriter). Combined with this, the 't' for '**Typo**' is slightly off-axis to mimic the idea that it is really a typo. The neutral tones displayed behind these letterforms are reminiscent of the colour of book pages and, what I wish is, the honesty I hope to display in my blog posts.
 
