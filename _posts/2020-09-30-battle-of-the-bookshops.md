@@ -22,7 +22,7 @@ Originally, the word '**Booksellers**' took up its place, within the logo, benea
 
 What could be seen now as the only characterful piece in the brand's typography is the ampersand found between the two company names. The uniform, blocks of green are broken up by a golden, sometimes orange, symbol simultaneously destroying the harmony *and* physically and theoretically joining the **Barnes** brothers with their co-founder G. Clifford **Noble**.
 
-Despite having launched well over 100 years ago, Barnes & Noble remains one of the giants in the book industry with over 600 retails stores and near-worldwide recognition.
+Despite having launched well over 100 years ago, **Barnes & Noble** remains one of the giants in the book industry with over 600 retails stores and near-worldwide recognition.
 
 ![](../uploads/waterstones_com_logo.png)
 
