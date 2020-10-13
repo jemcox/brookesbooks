@@ -20,10 +20,14 @@ I hope to radiate my love for books across my site in order that I might attract
 
 ![Site logo created on Adobe Illustrator](../uploads/type-or-typo-logo-2.png "Site logo created on Adobe Illustrator")
 
+For my header image, I represented the colours featured in my logo through the use of a beige page of Alice's Adventures in Wonderland by Lewis Carroll and the olive green shade to prevent the title of my blog from blending in with the words on the book page. I chose Alice's Adventures in Wonderland because it is a classic book that many people are familiar with and in using a book page I am able to show anyone who clicks on my site that this is a blog about books!
+
+
+
 Because this blog is centred around typography within books (and just because I love books!) I chose to display my headings in Libre Baskerville as it is the most popular font used for the text within books. Similarly, I have chosen to use Alegreya for the body text for the same reason and also because they are both fonts that are easy to read for anyone who might view my posts.
 
 ![](../uploads/screenshot-2020-10-11-at-15.39.14.png "Libre Baskerville and Alegreya family [1001 fonts]")
 
 I hope that my traditional but fun design choices within my blog reflect the book industry that, although many years old, is evolving constantly with the changing times. Thank you for joining me here and taking the time to read my words now and in future posts!
 
-\[Header Image: Old Design Shop]
+\[Header Background Image: Old Design Shop]
