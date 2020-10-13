@@ -22,7 +22,7 @@ I hope to radiate my love for books across my site in order that I might attract
 
 ![](../uploads/screenshot-2020-10-13-at-08.34.48.png)
 
-For my header image, I represented the colours featured in my logo through the use of a beige page of *Alice's Adventures in Wonderland* by Lewis Carroll and the olive green shade to prevent the title of my blog from blending in with the words on the book page. I chose *Alice's Adventures in Wonderland* because it is a classic book that many people are familiar with, and in using a book page I am able to show anyone who clicks on my site that this is a blog about books!
+For my header image, I represented the colours featured in my logo through the use of a beige-coloured page of *Alice's Adventures in Wonderland* by Lewis Carroll. The olive green shade prevents the title of my blog from blending in with the words on the image of the book page. I chose *Alice's Adventures in Wonderland* because it is a classic book that many people are familiar with, and in using a book page I am able to show anyone who clicks on my site that this is a blog about books!
 
 ![Type or Typo? header image](../uploads/screenshot-2020-10-13-at-08.23.35.png "Type or Typo? header image")
 
