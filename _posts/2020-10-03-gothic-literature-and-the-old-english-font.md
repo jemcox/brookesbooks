@@ -10,7 +10,7 @@ tags:
   - Art
   - Design
 ---
-Out of all of the elements of the term *gothic* - think haunted mansions, glowing candlelight and howling winds - great works of literature come to mind. Perhaps the most infamous examples of these is the literary masterpiece that is Dracula by Bram Stoker. There have been many different editions of Dracula since its publication date in 1897 but when it comes to the cover designer's choice of typography one style reigns triumphant. The iconic and widely seen **Old English**.
+Out of all of the elements of the term G*othic* - think haunted mansions, glowing candlelight and howling winds - great works of literature come to mind. Perhaps the most infamous example of these is the literary masterpiece that is Dracula by Bram Stoker. There have been many different editions of Dracula since its publication date in 1897 but when it comes to the cover designer's choice of typography one style reigns triumphant: **Old English**.
 
 ![Examples of fonts within the Old English family](../uploads/screenshot-2020-10-04-at-13.21.25.png "Examples of fonts within the Old English family")
 
