@@ -9,3 +9,6 @@ favicon: ../uploads/screenshot-2020-10-01-at-19.46.43.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items:
+  - name: About Me
+    siteurl: /aboutme
