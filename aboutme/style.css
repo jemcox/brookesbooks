@@ -1,0 +1,227 @@
+/* ---- General Styles ---- */
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: "Baskerville", "Alegreya", "Georgia", serif;
+	font-weight: 400;
+}
+
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 700px;
+	width: 100%;
+	background-image: url("img/banner.png");
+	background-size: cover;
+}
+
+/* Profile Picture */
+.profile_picture_circle {
+	padding-top: 150px;
+}
+
+.profile_picture {
+	background-image: url("img/me.JPG");
+	background-position: center;
+	width: 160px;
+	height: 160px;
+	border: #8C9F8C 5px solid;
+	border-radius: 50%;
+	background-size: 105%;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: black;
+	text-align: center;
+	font-size: 75px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: #8C9F8C;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 0px;
+}
+
+/* Social Icons */
+.social_icon {
+	margin: 5px;
+}
+
+.social_icon img {
+	width: 30px;
+}
+
+.social_icon:hover {
+	opacity: 0.5;
+}
+
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: #8C9F8C;
+}
+
+.few_things_text {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+.main_body {
+	background-color: #DBCFAA
+}
+
+.main_body_text {
+	color: black;
+	font-size: 20px;
+	margin: 0;
+	padding: 15px;
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.main_body_two {
+	color: black;
+	font-size: 20px;
+	margin: 0;
+	padding: 15px;
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.fact_header {
+	background-color: #8C9F8C;
+	padding-top: 15px;
+	padding-bottom: 3px;
+	color: white;
+	font-size: 30px;
+}
+
+/* ---- Facts ---- */
+/* Main Text */
+.facts {
+	background-color: #DBCFAA;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.facts p {
+	color: white;
+	font-size: 23px;
+	font-weight: 300;
+	line-height: 50px;
+
+	max-width: 760px;
+	margin: 20px auto 20px auto;
+	padding: 0 10px 0 10px;
+}
+
+/* Text Highlight Colour */
+.highlight {
+	color: black;
+	font-weight: 150;
+	font-size: 20px;
+}
+
+/* Fact Links */
+.fact_link {
+	color: black;
+	font-weight: 150;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 0px 0px 2px 0px;
+}
+
+.fact_link:hover {
+	color: white;
+	background-color: #8C9F8C;
+	padding: 0px 0px 2px 2px;
+}
+
+/* Fact Picture */
+.fact_image {
+	max-width: 150px;
+	border: #f2e8db solid 5px;
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+/* Authors List */
+.authors {
+	font-family: "Baskerville", "Alegreya", "Times New Roman", serif;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	font-weight: 300;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	padding-top: 60px;
+	margin-top: -80px;
+}
+
+.authors li {
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+
+/* --- Email Me --- */
+.email_me_section {
+	background-color: #8C9F8C;
+	width: 100%;
+}
+
+/* 'You've learned a little about me.' */
+.learned_text {
+	text-align: center;
+	color: white;
+	font-size: 35px;
+	font-weight: 300;
+	line-height: 70px;
+
+	max-width: 760px;
+	margin: 0 auto 0 auto;
+	padding: 50px 15px 15px;
+}
+
+/* 'Contact Me' Box */
+.email_me_link {
+	text-align: center;
+	color: #DBCFAA;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+
+.email_me_link a {
+	color: #f2e8db;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+	font-size: 30px;
+	padding: 10px 20px 10px 20px;
+}
+
+.email_me_link a:hover {
+	color: #DBCFAA;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
