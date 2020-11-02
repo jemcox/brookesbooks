@@ -25,4 +25,4 @@ The authors' names and the description of the novel are written in **Elongated R
 
 ![Fonts.com](../uploads/screenshot-2020-11-01-at-14.20.22.png "https://www.fonts.com/font/aboutype/elongated/roman-condensed")
 
-Most of the typography is printed in gold foil which adds to the deluxe image the designer wants to present and allows the company to price the books at what some might see as a steep price at £25 RRP.
+Most of the typography is printed in gold foil which adds to the deluxe image the designer wants to present and allows the company to price the books at what some might see as a steep price at £25 RRP. The names of the author and the designer are printed in black allowing the title of the work to get the full treatment whilst remaining clear to the reader.
