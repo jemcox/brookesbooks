@@ -19,7 +19,7 @@ The typography choice for 'Beauty' and 'Beast' is reminiscent of traditional fai
 
 The article words 'the' and 'and' are very different stylistically from the other examples of typography found on this book cover. The exaggerated ligature-like extensions on some of the letters 
 
-![A close up](../uploads/screenshot-2020-11-02-at-17.03.08.png "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
+![A close up](../uploads/screenshot-2020-11-02-at-17.05.51.png "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
 
 The authors' names and the description of the novel are written in **Elongated Roman**, a tall, capitalised serif font where all the letters are the same height. This uniformed font is easy to read while still adding a unique flair to tie in with the rest of the elements on the book cover.
 
