@@ -2,7 +2,7 @@
 layout: post
 title: Magnificent MinaLima
 date: 2020-11-01T13:57:05.355Z
-header_feature_image: ../uploads/screenshot-2020-11-02-at-17.26.02.png
+header_feature_image: ../uploads/untitled-design.png
 comments: true
 ---
 In 2008, design studio MinaLima produced editions of classic children's stories quite unlike any before. These copies maintained the simple beauty of the pop-up book while encasing it in a cover that looked deluxe and gift-worthy. Their covers harp back to a time when novels were bound in leather and imprinted with gold lettering but bright colours and unique illustrations bring a modern twist to these beautiful collector's pieces. 
