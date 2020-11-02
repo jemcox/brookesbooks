@@ -17,7 +17,7 @@ The typography choice for 'Beauty' and 'Beast' is reminiscent of traditional fai
 
 ![A close up](../uploads/screenshot-2020-11-02-at-16.18.54.png "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
 
-The article words 'the' and 'and' are very different stylistically from the other examples of typography found on this book cover. The exaggerated ligature-like extensions on some of the letters 
+The article words 'the' and 'and' are very different stylistically from the other examples of typography found on this book cover. The exaggerated ligature-like extensions on some of the letters adds a dramatic flair to the title which perhaps displays the infamous reputation the tale of La Belle et la Bête has.
 
 ![A close up](../uploads/screenshot-2020-11-02-at-17.05.51.png "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
 
