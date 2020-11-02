@@ -13,6 +13,10 @@ As of November 2020 there are currently six books in the MinaLima classics editi
 
 Both the font used for '*Beauty*' and '*Beast*' and the font used for '*the*' and '*and* *the*' were specifically created by the design company for these editions of classics.
 
-The authors' names and description of the novel are written in **Elongated Roman**, a tall, capitalised serif font where all the letters are the same height. This uniformed font is easy to read while still adding a unique flair to tie in with the rest of the elements on the book cover.
+The font choice for 'Beauty' and 'Beast'
+
+![](../uploads/screenshot-2020-11-02-at-16.18.54.png)
+
+The authors' names and the description of the novel are written in **Elongated Roman**, a tall, capitalised serif font where all the letters are the same height. This uniformed font is easy to read while still adding a unique flair to tie in with the rest of the elements on the book cover.
 
 ![Fonts.com](../uploads/screenshot-2020-11-01-at-14.20.22.png "https://www.fonts.com/font/aboutype/elongated/roman-condensed")
