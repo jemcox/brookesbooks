@@ -13,7 +13,7 @@ As of November 2020 there are currently six books in the MinaLima classics editi
 
 Both the font used for '*Beauty*' and '*Beast*' and the font used for '*the*' and '*and* *the*' were specifically created by the design company for these editions of classics.
 
-The font choice for 'Beauty' and 'Beast'
+The font choice for 'Beauty' and 'Beast' 
 
 ![](../uploads/screenshot-2020-11-02-at-16.18.54.png)
 
