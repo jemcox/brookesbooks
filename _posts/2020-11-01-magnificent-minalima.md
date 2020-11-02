@@ -24,3 +24,5 @@ The article words 'the' and 'and' are very different stylistically from the othe
 The authors' names and the description of the novel are written in **Elongated Roman**, a tall, capitalised serif font where all the letters are the same height. This uniformed font is easy to read while still adding a unique flair to tie in with the rest of the elements on the book cover.
 
 ![Fonts.com](../uploads/screenshot-2020-11-01-at-14.20.22.png "https://www.fonts.com/font/aboutype/elongated/roman-condensed")
+
+Most of the typography is printed in gold foil which adds to the deluxe and allows the company to price the books at what some might see as a steep price at £25.
