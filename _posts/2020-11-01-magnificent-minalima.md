@@ -11,11 +11,15 @@ As of November 2020 there are currently six books in the MinaLima classics editi
 
 ![Amazon](../uploads/bb-scaled.jpg "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
 
-Both the font used for '*Beauty*' and '*Beast*' and the font used for '*the*' and '*and* *the*' were specifically created by the design company for these editions of classics.
+Both the typeface used for '*Beauty*' and '*Beast*' and the font used for '*the*' and '*and* *the*' were specifically created by the design company for these books.
 
-The font choice for 'Beauty' and 'Beast' 
+The typography choice for 'Beauty' and 'Beast' is reminiscent of traditional fairytale books produced for the first-ever editions of the actual tale itself. It is a novelty font, entirely capitalised, with angular serifs and cutouts along the base and height of each individual letter. 
 
-![](../uploads/screenshot-2020-11-02-at-16.18.54.png)
+![A close up...](../uploads/screenshot-2020-11-02-at-16.18.54.png "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
+
+The article words 'the' and 'and' 
+
+
 
 The authors' names and the description of the novel are written in **Elongated Roman**, a tall, capitalised serif font where all the letters are the same height. This uniformed font is easy to read while still adding a unique flair to tie in with the rest of the elements on the book cover.
 
