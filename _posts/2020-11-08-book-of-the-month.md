@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book of the Month
+title: Book of the Month - All Booked Up
 date: 2020-11-08T15:38:16.201Z
 header_feature_image: ../uploads/botm-cover.png
 comments: true
