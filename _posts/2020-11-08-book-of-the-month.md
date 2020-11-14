@@ -5,7 +5,7 @@ date: 2020-11-08T15:38:16.201Z
 header_feature_image: ../uploads/botm-cover.png
 comments: true
 ---
-Since 1926, Book of the Month has been one of the most successful and unique subscription services out there. Each month subscribers are allowed to pick one hardcover book from a selection of five to receive for the inexpensive fee of $14.99 per month. Unlike other book subscription boxes, Book of the Month allow their subscribers to skip a month with no charge if none of the ones in that selection interests them.
+Since 1926, Book of the Month has been one of the most successful and unique subscription services out there. Each month subscribers are allowed to pick one hardcover book from a selection of five to receive for the inexpensive fee of $14.99 per month. Unlike other book subscription boxes, Book of the Month allows their subscribers to skip a month with no charge if none of the ones selected that month interests them.
 
 The company logo is made up of the letters in the company name. 
 
