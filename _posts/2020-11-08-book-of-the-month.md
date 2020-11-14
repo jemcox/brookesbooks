@@ -11,8 +11,8 @@ The company logo is made up of the letters in the company name.
 
 ![BOTM](../uploads/screenshot-2020-11-14-at-17.15.24.png "BOTM")
 
-![https://www.themuse.com/profiles/bookofthemonth](../uploads/botm.png "https://www.themuse.com/profiles/bookofthemonth")
-
 The box containing the subscriber's book of that month comes with the company name printed on the side of it. The name is written in a font that is a variation of Garamond Standard Book Narrow Italic. 
+
+![https://www.themuse.com/profiles/bookofthemonth](../uploads/botm.png "https://www.themuse.com/profiles/bookofthemonth")
 
 The box itself is a navy blue colour so the text is displayed in white so as to be easily readable. Whenever the font is displayed against a white background i.e. on their website, it is in that same blue colour.
