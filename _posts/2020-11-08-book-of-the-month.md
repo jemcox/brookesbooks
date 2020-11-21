@@ -15,4 +15,8 @@ The box containing the subscriber's book of that month comes with the company na
 
 ![https://www.themuse.com/profiles/bookofthemonth](../uploads/botm.png "https://www.themuse.com/profiles/bookofthemonth")
 
-The box itself is a navy blue colour so the text is displayed in white so as to be easily readable. Whenever the font is displayed against a white background i.e. on their website, it is in that same blue colour.
+The box itself is a navy blue colour. The text on top is displayed in white so as to be easily readable. Whenever the font is displayed against a white background, i.e. on their website, it is in that same navy blue colour. The colour is called #21439a. 
+
+
+
+Blue is a colour which has proven to be naturally pleasing to the eye and the vibrant shade that Book of the Month has chosen allows it to be bold and inviting too.
