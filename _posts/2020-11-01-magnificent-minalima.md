@@ -5,19 +5,19 @@ date: 2020-11-01T13:57:05.355Z
 header_feature_image: ../uploads/untitled-design.png
 comments: true
 ---
-In 2008, design studio MinaLima produced editions of classic children's stories quite unlike any before. These copies maintained the simple beauty of the pop-up book while encasing it in a cover that looked deluxe and gift-worthy. Their covers harp back to a time when novels were bound in leather and imprinted with gold lettering but bright colours and unique illustrations bring a modern twist to these beautiful collector's pieces. 
+In 2008, design studio *MinaLima* produced editions of classic children's stories quite unlike any before. These copies maintained the simple beauty of the pop-up book while encasing it in a cover that looked deluxe and gift-worthy. Their covers harp back to a time when novels were bound in leather and imprinted with gold lettering but bright colours and unique illustrations bring a modern twist to these beautiful collector's pieces. 
 
-As of November 2020 there are currently six books in the MinaLima classics editions. For the sake of looking at the covers a little more closely so as to analyse the fonts, I will be using *The Beauty and the Beast* as an example.
+As of November 2020 there are currently six books in the *MinaLima classics editions*. For the sake of looking at the covers a little more closely so as to analyse the fonts, I will be using *The Beauty and the Beast* as an example.
 
 ![Amazon](../uploads/bb-scaled.jpg "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
 
 Both the typeface used for '*Beauty*' and '*Beast*' and the font used for '*the*' and '*and* *the*' were specifically created by the design company for these books.
 
-The typography choice for 'Beauty' and 'Beast' is reminiscent of traditional fairytale books produced for the first-ever editions of the actual tale itself. It is a novelty font, entirely capitalised, with angular serifs and cutouts along the base and height of each individual letter. 
+The typography choice for '*Beauty*' and '*Beast*' is reminiscent of traditional fairytale books produced for the first-ever editions of the actual tale itself. It is a novelty font, entirely capitalised, with angular serifs and cutouts along the base and height of each individual letter. 
 
 ![A close up](../uploads/screenshot-2020-11-02-at-16.18.54.png "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
 
-The article words 'the' and 'and' are very different stylistically from the other examples of typography found on this book cover. The exaggerated ligature-like extensions on some of the letters adds a dramatic flair to the title which perhaps displays the infamous reputation the tale of La Belle et la Bête has.
+The article words '*the*' and '*and*' are very different stylistically from the other examples of typography found on this book cover. The exaggerated ligature-like extensions on some of the letters adds a dramatic flair to the title which perhaps displays the infamous reputation the tale of *La Belle et la Bête* has.
 
 ![A close up](../uploads/screenshot-2020-11-02-at-17.05.51.png "https://www.amazon.co.uk/Beauty-Illustrated-Interactive-Elements-Classics/dp/0062456210")
 
