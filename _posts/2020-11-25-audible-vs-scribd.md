@@ -29,3 +29,5 @@ Scribd uses a more widely available typeface called Carmen Sans in the Regular f
 ![Cufon Fonts](../uploads/carmen-sans-741x415-57a994f543.jpg "Cufon Fonts")
 
 Scribd's logo pictures two earphones creating an 'S' shape. The logo is definitely more interesting and recognisable than the choice of typography.
+
+The brand's colours are two different shades of blue. The text is in a blue (#002139) so deep that it is nearly black. The logo is in a deep turquoise colour (#1e7b85).
