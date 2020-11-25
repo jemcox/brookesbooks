@@ -10,6 +10,8 @@ Audiobook giant, Audible, was founded in 1995 by Don Katz. It is now the world's
 
 Scribd is Audible's greatest competitor. It was founded in 2007 and has grown popularity in that whatever books Audible doesn't offer Scribd generally does and vice versa. 
 
+![Audible](../uploads/audiblenew44.png "Audible")
+
 Audible strays away from traditional book fonts such as Baskerville and instead uses a custom typeface called Audible Sans. As this font is non-serif it is more reminiscent of a digital platform than a print one which is what Audible offers. The rounded shape of the individual letters also adds to the more modern look. Audible ties 
 
 ![Positype](../uploads/audible-sans-01.jpg "Positype")
