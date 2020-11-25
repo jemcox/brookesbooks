@@ -20,4 +20,6 @@ To relate it back to reading, Audible's logo is of an open book with what appear
 
 The colour of the Audible brand is a pumpkin-orange colour which is the same colour that Amazon uses. By using the same colour, Audible is instantly recognisable as an Amazon-owned brand and promotes a potential customer's sense of trust in relation to them.
 
-Scribd uses a more widely available typeface called Carmen Sans Regular.
+![Cufon Fonts](../uploads/carmen-sans-741x415-57a994f543.jpg "Cufon Fonts")
+
+Scribd uses a more widely available typeface called Carmen Sans in the Regular font.
