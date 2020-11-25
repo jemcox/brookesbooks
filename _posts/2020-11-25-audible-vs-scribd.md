@@ -24,6 +24,6 @@ Scribd is Audible's greatest competitor. It was founded in 2007 and has grown po
 
 ![Scribd](../uploads/download.png "Scribd")
 
-Scribd uses a more widely available typeface called Carmen Sans in the Regular font. 
+Scribd uses a more widely available typeface called Carmen Sans in the Regular font. This font is very easy to read but it also doesn't have a lot of unique style.
 
 ![Cufon Fonts](../uploads/carmen-sans-741x415-57a994f543.jpg "Cufon Fonts")
