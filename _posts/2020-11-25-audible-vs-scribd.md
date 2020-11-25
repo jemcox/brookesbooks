@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Audible VS Scribd
+title: "Quiet Typography: Audible vs Scribd"
 date: 2020-11-25T13:43:03.815Z
 comments: true
 ---
