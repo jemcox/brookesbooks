@@ -12,6 +12,10 @@ Scribd is Audible's greatest competitor. It was founded in 2007 and has grown po
 
 ![Audible](../uploads/audiblenew44.png "Audible")
 
-Audible strays away from traditional book fonts such as Baskerville and instead uses a custom typeface called Audible Sans. As this font is non-serif it is more reminiscent of a digital platform than a print one which is what Audible offers. The rounded shape of the individual letters also adds to the more modern look. Audible ties 
+Audible strays away from traditional book fonts such as Baskerville and instead uses a custom typeface called Audible Sans. As this font is non-serif it is more reminiscent of a digital platform than a print one which is what Audible offers. The rounded shape of the individual letters also adds to the more modern look.
 
 ![Positype](../uploads/audible-sans-01.jpg "Positype")
+
+To relate it back to reading, Audible's logo is of an open book with what appears to be pages but could signify the swiping motion of a person's finger on their listening device.
+
+The colour of the Audible brand is a pumpkin-orange colour which is the same colour that Amazon uses. By using the same colour, Audible is instantly recognisable as an Amazon-owned brand and promotes a potential customer's sense of trust in relation to them.
