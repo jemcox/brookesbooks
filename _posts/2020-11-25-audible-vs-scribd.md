@@ -20,16 +20,18 @@ The colour of the Audible brand is a pumpkin-orange colour which is the same sha
 
 ![](../uploads/screenshot-2020-11-25-at-17.00.02.png)
 
-Scribd is Audible's greatest competitor. It was founded in 2007 and has grown popularity in that whatever books Audible doesn't offer Scribd generally does and vice versa. 
+Scribd is Audible's greatest competitor. It was founded in 2007 and has grown in popularity advertising that whatever books Audible doesn't offer they generally do instead and vice versa. 
 
 ![Scribd](../uploads/download.png "Scribd")
 
-Scribd uses a more widely available typeface called Carmen Sans in the Regular font. This font is very easy to read but it also doesn't have a lot of unique style.
+Scribd uses a more widely available typeface called Carmen Sans in the Regular style. This font is very easy to read as it is entirely capitalised and the tracking between the letters in generous. However, it also doesn't have a lot of unique, recognisable brand style.
 
 ![Cufon Fonts](../uploads/carmen-sans-741x415-57a994f543.jpg "Cufon Fonts")
 
-Scribd's logo pictures two earphones creating an 'S' shape. The logo is definitely more interesting and recognisable than their choice of typography. Interestingly Scribd 'does not meet the threshold of originality needed for copyright protection' as it is only made up of 'simple geometric shapes or text'.
+Scribd's logo pictures two earphones creating an 'S' shape. The logo is often seen alone so it is important that it is something special.  Therefore, it is not necessary that their choice of typography is particularly striking. Interestingly, however, Scribd's logo 'does not meet the threshold of originality needed for copyright protection' as it is only made up of 'simple geometric shapes or text'.
 
 The brand's colours are two different shades of blue. The text is in a shade (#002139) so deep that it is nearly black. The logo is in a deep turquoise colour (#1e7b85). 
 
 ![](../uploads/screenshot-2020-11-25-at-18.10.50.png)
+
+Blue has been proven to be a very relaxing and welcoming colour which perhaps hints at easy listening of audiobooks for future customers.
