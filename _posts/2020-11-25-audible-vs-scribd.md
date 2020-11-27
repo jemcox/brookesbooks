@@ -2,7 +2,7 @@
 layout: post
 title: "Audibly Scribed Typography: Audible vs Scribd"
 date: 2020-11-25T13:43:03.815Z
-header_feature_image: ../uploads/screenshot-2020-11-27-at-14.59.01.png
+header_feature_image: ../uploads/screenshot-2020-11-27-at-15.19.28.png
 comments: true
 ---
 Audiobooks have been available to the public since the 1970s when libraries started stocking cassette tapes of popular books but it wasn't until the 1990s that audio really took off as it became more portable.
