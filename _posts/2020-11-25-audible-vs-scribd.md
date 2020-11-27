@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Audibly Scribed Typography: Audible vs Scribd"
+title: Audibly Scribed Typography
 date: 2020-11-25T13:43:03.815Z
 header_feature_image: ../uploads/screenshot-2020-11-27-at-15.19.28.png
 comments: true
