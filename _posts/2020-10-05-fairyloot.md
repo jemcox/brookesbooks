@@ -14,3 +14,9 @@ FairyLoot clearly reveals themselves as a subscription box based around books wi
 The typeface that the logo is written in again lends itself to the fantasy genre with a typeface that is handwritten in-style with twining, flourishing serifs. The serif on the 'F' looks like a vine extending from the letter itself. 
 
 Interestingly, there is no reference to books within the logo or even symbolically within the text. The box relies purely on the fantasy element to attract subscribers. As the box is for young adults, perhaps the fairy hints at the box being a youthful one.
+
+![Fairyloot](../uploads/fairyloot.jpg "Fairyloot")
+
+Text on side of box
+
+![https://www.amyjanealice.com/2016/11/november-2016-fairyloot-box.html](../uploads/screenshot-2020-11-28-at-12.19.07.png "AmyJaneAlice.com")
