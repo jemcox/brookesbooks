@@ -19,4 +19,4 @@ Interestingly, there is no reference to books within the logo or even symbolical
 
 Text on side of box
 
-![https://www.amyjanealice.com/2016/11/november-2016-fairyloot-box.html](../uploads/screenshot-2020-11-28-at-12.19.07.png "AmyJaneAlice.com")
+![https://www.traversingchapters.com/november-2019-fairyloot-unboxing/](../uploads/screenshot-2020-11-28-at-12.19.07.png "Traversing Chapters")
