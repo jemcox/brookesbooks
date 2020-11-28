@@ -23,4 +23,4 @@ Text on side of box
 
 ![Traversing Chapters](../uploads/screenshot-2020-11-28-at-12.19.07.png "https://www.traversingchapters.com/november-2019-fairyloot-unboxing/")
 
-The inner side of the box has a quote by Neil Gaiman on it (which he attributes to G.K. Chesterton) that futher emphasises the fantasy theme with talk of fairytales and dragons. The text used is again **Anitasha**; a looping cursive style font.
+The inner side of the box has a quote by Neil Gaiman on it (which he attributes to G.K. Chesterton) that futher emphasises the fantasy theme with talk of fairytales and dragons. Again, the company has chosen to use **Anitasha**; a looping cursive-style font.
