@@ -22,3 +22,5 @@ Interestingly, there is no reference to books within the logo or even symbolical
 Text on side of box
 
 ![Traversing Chapters](../uploads/screenshot-2020-11-28-at-12.19.07.png "https://www.traversingchapters.com/november-2019-fairyloot-unboxing/")
+
+The inner side of the box has a quote by Neil Gaiman on it (which he attributes to G.K. Chesterton) that futher emphasises the fantasy theme with talk of fairytales and dragons. The text is in a looping cursive style font called **Anitasha**. It is a modern, pretty, script font that is popular for wedding invitations and posters.
