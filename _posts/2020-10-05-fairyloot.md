@@ -19,8 +19,12 @@ Interestingly, there is no reference to books within the logo or even symbolical
 
 ![Fairyloot](../uploads/fairyloot.jpg "Fairyloot")
 
+The front side of the box has a piece of text that says '*My books. My treasure.*' which is displayed in **Modulus Pro**. It is easily readable as it is sans serif and completely capitalised allowing it to contrast against the company name as discussed before.
+
+![This Northern Girl](../uploads/front.jpg "http://thisnortherngal.co.uk/books-2/my-first-fairy-loot-box/")
+
 The inner side of the box has a quote by Neil Gaiman on it (which he attributes to G.K. Chesterton) that futher emphasises the fantasy theme with talk of fairytales and dragons. Again, the company has chosen to use **Anitasha**; a looping cursive-style font. 
 
-The authors' names are written in **Modulus Pro** which is easily readable but displayed in less transparancy that the other text so as not to take away from the brand of the box. It is a sans serif font that is not nearly as decadent as **Anitasha** so as not to draw attention to itself too much.
+The authors' names are also written in **Modulus Pro** but is displayed in less transparancy than the other text so as not to take away from the brand of the box which is shown in the form of the quote above it. It is a sans serif font that is not nearly as decadent as **Anitasha** so as not to draw attention to itself too much.
 
 ![Traversing Chapters](../uploads/screenshot-2020-11-28-at-12.19.07.png "https://www.traversingchapters.com/november-2019-fairyloot-unboxing/")
