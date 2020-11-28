@@ -21,4 +21,4 @@ Interestingly, there is no reference to books within the logo or even symbolical
 
 Text on side of box
 
-![https://www.traversingchapters.com/november-2019-fairyloot-unboxing/](../uploads/screenshot-2020-11-28-at-12.19.07.png "Traversing Chapters")
+![Traversing Chapters](../uploads/screenshot-2020-11-28-at-12.19.07.png "https://www.traversingchapters.com/november-2019-fairyloot-unboxing/")
